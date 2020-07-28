@@ -49,3 +49,10 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+# Colcon custom file
+COLCON_IGNORE
+
+# Ignore .vscode settings files, but bear in mind you MAY need to modify your
+# .vscode/c_cpp_settings.json file to find #include headers.
+.vscode/settings.json
